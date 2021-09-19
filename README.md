@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 Reach me at: shivanigowdaks@gmail.com
+- 📫 How to Reach me: shivanigowdaks@gmail.com
 <!--
 - 📫 Reach me at: shivanigowdaks@gmail.com
 - 😄 Pronouns: 
