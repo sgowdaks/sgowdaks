@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Check out sgowdaks.github.io to know more about me
+- click [here](https://sgowdaks.github.io/) to know more about me!
 
 
 <!--
