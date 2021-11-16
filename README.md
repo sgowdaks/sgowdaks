@@ -1,5 +1,6 @@
 ### Hi there 👋
 - click [here](https://sgowdaks.github.io/) to know more about me!
+- - 🌱 I’m currently learning how to code effeciently
 
 
 <!--
