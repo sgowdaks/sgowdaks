@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
+- 🌱 I’m currently learning how to code effeciently
+- 😄 Pronouns: she/her
 - click [here](https://sgowdaks.github.io/) to know more about me!
 
 
