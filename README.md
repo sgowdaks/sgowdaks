@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=sgowdaks)
 - click [here](https://sgowdaks.github.io/) to know more about me!
 
 
