@@ -10,8 +10,8 @@
 <!-- - click [here](https://sgowdaks.github.io/) to know more about me!
  -->
 <h3> 💻 <b>Skill set</b></h3>
-<h4><b>Languages</b>: Python, Java, C, JavaScript, SQL</h4>
-<h4><b>Web technologies:</b> HTML, CSS, Bootstrap, RDBMS</h4>
+<h4>Languages: Python, Java, C, JavaScript, SQL</h4>
+<h4>Web technologies: HTML, CSS, Bootstrap, RDBMS</h4>
 <h4>Tools, frameworks and technologies: React.js, Oracle Database, Jira, Jenkins, Git, Scikit-learn, NumPy, Linux, Microsoft Excel, Latex, Postman, RedHat OpenShift, Visual Studio code, PyCharm, Jupyter Lab.</h4>
 
 <!-- - Skill set:
