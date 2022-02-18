@@ -2,6 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
 - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her
+- 📫 How to Reach me: shivanigowdaks@gmail.com 
 - click [here](https://sgowdaks.github.io/) to know more about me!
 
 
