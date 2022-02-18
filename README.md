@@ -5,7 +5,11 @@
 - 📫 How to Reach me: shivanigowdaks@gmail.com 
 - click [here](https://sgowdaks.github.io/) to know more about me!
 
-<h2>Skill set</h2>
+<h3>Skill set</h3>
+<h4>Languages: Python, Java, C, JavaScript, SQL</h4>
+<h4>Web technologies: HTML, CSS, Bootstrap, RDBMS</h4>
+<h4>Tools, frameworks and technologies: React.js, Oracle Database, Jira, Jenkins, Git, Scikit-learn, NumPy, Linux, Microsoft Excel
+<br/>Latex, Postman, RedHat OpenShift, Visual Studio code, PyCharm, Jupyter Lab.</h4>
 
 <!-- - Skill set:
 - Languages: Python, Java, C, JavaScript, SQL
