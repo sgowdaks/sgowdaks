@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
 <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3>
-<h5>🌱 I’m currently learning to code effeciently</h5>
-<h5>📫 How to Reach me: shivanigowdaks@gmail.com</h5>
+<h4>🌱 I’m currently learning to code effeciently</h4>
+<h4>📫 How to Reach me: shivanigowdaks@gmail.com</h4>
 <!-- - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her -->
 <!-- - 📫 How to Reach me: shivanigowdaks@gmail.com  -->
