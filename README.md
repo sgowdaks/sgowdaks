@@ -1,4 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<img src="./gifs/hi.gif">
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
 <!-- <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3> -->
 <h4>🌱 I’m currently learning to code effeciently</h4>
