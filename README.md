@@ -1,10 +1,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
+Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.
 - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her
 - 📫 How to Reach me: shivanigowdaks@gmail.com 
-- click [here](https://sgowdaks.github.io/) to know more about me!
 
+<!-- - click [here](https://sgowdaks.github.io/) to know more about me!
+ -->
 <h3> 💻 Skill set</h3>
 <h4>Languages: Python, Java, C, JavaScript, SQL</h4>
 <h4>Web technologies: HTML, CSS, Bootstrap, RDBMS</h4>
