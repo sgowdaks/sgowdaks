@@ -65,7 +65,6 @@
  <p>Social profiles</p>
  <table>
  <tr>
-  <td>Languages</td>
   <td>
 <img src="https://img.shields.io/badge/sgowdaks-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/sgowda_ks-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
