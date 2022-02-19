@@ -78,7 +78,8 @@
    <a href="https://stackoverflow.com/users/16838276/shivani-gowda?tab=profile">
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+   <a href="https://www.hackerrank.com/shivanigowda1231?hr_r=1">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
    <a href="https://leetcode.com/shivanigowda/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
    <a href="https://stackexchange.com/users/22665915/shivani-gowda?tab=accounts">
