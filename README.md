@@ -13,7 +13,7 @@
 <!-- - click [here](https://sgowdaks.github.io/) to know more about me!
  -->
 <h3> 💻 <b>Skill set</b></h3>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  <h4>Languages: 
  Python, Java, C, JavaScript, SQL</h4>
 <h4>Web technologies: HTML, CSS, Bootstrap, RDBMS</h4>
