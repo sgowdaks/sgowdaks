@@ -71,7 +71,8 @@
   <td>
  
 <img src="https://img.shields.io/badge/sgowdaks-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/sgowda_ks-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+   <a href="https://www.instagram.com/sgowda_ks/">
+<img src="https://img.shields.io/badge/sgowda_ks-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
    <a href="https://replit.com/@sgowdaks">
 <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
