@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
 <!-- <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3> -->
 <p>🌱 I’m currently learning to code effeciently</p>
-<p>😄 Pronouns: she/her  💃🏻</p>
+<p>😄 Pronouns: she/her 💃🏻</p>
 <p>📫 How to reach me: shivanigowdaks@gmail.com</p>
 <!-- - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her -->
