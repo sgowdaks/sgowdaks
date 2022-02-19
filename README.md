@@ -60,6 +60,7 @@
  </td>
   </td>
  </tr>
+ <p>Social profiles</p>
  
 
 
