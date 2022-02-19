@@ -13,6 +13,7 @@
 <!-- - click [here](https://sgowdaks.github.io/) to know more about me!
  -->
 <h3> 💻 <b>Skill set</b></h3>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <h4>Languages: 
 <i class="fa-brands fa-java"></i>
 <i class="fa-brands fa-js"></i>
