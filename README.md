@@ -12,7 +12,7 @@
 
 <!-- - click [here](https://sgowdaks.github.io/) to know more about me!
  -->
-<h3> 💻 <b>Skill set</b></h3>
+<p>💻 Skill set</p>
 
 <table>
  <tr>
@@ -56,11 +56,30 @@
    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
    <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
+    
  </td>
  </td>
   </td>
  </tr>
+ </table>
  <p>Social profiles</p>
+ <table>
+ <tr>
+  <td>Languages</td>
+  <td>
+<img src="https://img.shields.io/badge/sgowdaks-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/sgowda_ks-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+<img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
+   <img src="https://img.shields.io/badge/sgowdaks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+ </td>
+ </tr>
+ <tr>
+  </table>
  
 
 
