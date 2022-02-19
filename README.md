@@ -75,7 +75,8 @@
 <img src="https://img.shields.io/badge/sgowda_ks-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
    <a href="https://replit.com/@sgowdaks">
 <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+   <a href="https://stackoverflow.com/users/16838276/shivani-gowda?tab=profile">
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
    <a href="https://leetcode.com/shivanigowda/">
