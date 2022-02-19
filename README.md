@@ -3,9 +3,9 @@
 <br/>
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
 <!-- <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3> -->
-<h4>🌱 I’m currently learning to code effeciently</h4>
-<h4>😄 Pronouns: she/her</h4>
-<h4>📫 How to reach me: shivanigowdaks@gmail.com</h4>
+<p>🌱 I’m currently learning to code effeciently</p>
+<p>😄 Pronouns: she/her  💃🏻</p>
+<p>📫 How to reach me: shivanigowdaks@gmail.com</p>
 <!-- - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her -->
 <!-- - 📫 How to Reach me: shivanigowdaks@gmail.com  -->
@@ -13,21 +13,56 @@
 <!-- - click [here](https://sgowdaks.github.io/) to know more about me!
  -->
 <h3> 💻 <b>Skill set</b></h3>
-<p>
+
+<table>
+ <tr>
+  <td>Languages</td>
+  <td>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- </p>
+ </td>
+ </tr>
+ <tr>
+  <td>Web Tech</td>
+  <td>
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ </td>
+  </td>
+ </tr>
+ <tr>
+  <td>Tools, frameworks and technologies</td>
+  <td>
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/> 
+   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+ <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)"/>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
+ </td>
+ </td>
+  </td>
+ </tr>
+ 
 
-<!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> -->
-<!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> -->
 
-
-<h4>Web technologies: HTML, CSS, Bootstrap, RDBMS</h4>
 <h4>Tools, frameworks and technologies: React.js, Oracle Database, Jira, Jenkins, Git, Scikit-learn, NumPy, Linux, Microsoft Excel, Latex, Postman, RedHat OpenShift, Visual Studio code, PyCharm, Jupyter Lab.</h4>
 
 <!-- - Skill set:
