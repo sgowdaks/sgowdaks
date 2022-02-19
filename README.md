@@ -2,10 +2,13 @@
 <img src="./gifs/hi.gif" width = "200"></img>
 <br/>
 ![](https://komarev.com/ghpvc/?username=sgowdaks)
+</br>
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgowdaks&show_icons=true)
 <!-- <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3> -->
 <p>🌱 I’m currently learning to code effeciently</p>
 <p>😄 Pronouns: she/her 💃🏻</p>
 <p>📫 How to reach me: shivanigowdaks@gmail.com</p>
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgowdaks&show_icons=true)
 <!-- - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her -->
 <!-- - 📫 How to Reach me: shivanigowdaks@gmail.com  -->
