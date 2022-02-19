@@ -69,6 +69,7 @@
  <table>
  <tr>
   <td>
+ 
 <img src="https://img.shields.io/badge/sgowdaks-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/sgowda_ks-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
@@ -77,7 +78,7 @@
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 <img src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
-   <img src="https://img.shields.io/badge/sgowdaks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+ <a href="https://twitter.com/sgowdaks">  <img src="https://img.shields.io/badge/sgowdaks-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
  </td>
  </tr>
  <tr>
