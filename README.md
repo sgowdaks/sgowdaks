@@ -90,6 +90,8 @@
  </tr>
  <tr>
   </table>
+  <p>Need my resume?</p>
+  <a href="./ShivaniG_Resume.pdf" download>click here!</a>
  
 
 
