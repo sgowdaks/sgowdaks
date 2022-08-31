@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)"/>
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
    <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"/>
    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -93,9 +92,9 @@
  <tr>
   </table>
   <p>Need my resume?</p>
-  <a href="./ShivaniG_Resume.pdf" download="ShivaniG_Resume.pdf"><button type="button" class="button">
+  <a href="./Shivaniks_Resume.pdf" download="Shivaniks_Resume.pdf"><button type="button" class="button">
               <strong>Click Me!</strong></button></strong></a>
-<!--   <a href="./ShivaniG_Resume.pdf" download>click here!</a> -->
+<!--   <a href="./Shivaniks_Resume.pdf" download>click here!</a> -->
  
 
 
