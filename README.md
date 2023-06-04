@@ -8,6 +8,7 @@
 <p>🌱 I’m currently learning to code effeciently 👩🏻‍💻</p>
 <p>😄 Pronouns: she/her 💃🏻</p>
 <p>📫 How to reach me: shivanigowdaks@gmail.com</p>
+<p>⚡ Fun fact: I could spend hours discussing anime (hahaha) </P>
 <!-- ![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgowdaks&show_icons=true) -->
 <!-- - 🌱 I’m currently learning how to code effeciently
 - 😄 Pronouns: she/her -->
