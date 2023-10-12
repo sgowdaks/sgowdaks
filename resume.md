@@ -1,8 +1,6 @@
 
 <h1 align="center">Shivani Gowda KS</h1>
-<h3 align="center">https://www.linkedin.com/in/sgowdaks/ | 213-442-5656 | shivanigowdaks@gmail.com</h3>
-
-
+<h4 align="center"><a href="https://www.linkedin.com/in/sgowdaks/">https://www.linkedin.com/in/sgowdaks/</a> | 213-442-5656 | shivanigowdaks@gmail.com</h4>
 
 ## Objective
 Highly motivated Machine Learning Engineer with a proven track record in developing efficient data pipelines, benchmarking language models, and implementing reliable databases. Seeking to leverage my technical skills to effectively fill the Machine Learning Engineer role at your company.
@@ -25,6 +23,7 @@ Highly motivated Machine Learning Engineer with a proven track record in develop
 - Enhanced compatibility of a dataset for multi-label classification through meticulous annotation and leveraged the DALL·E API to collect a diverse range of images for further analysis.
 - Fine-tuned VIT and BERT models with variety of evaluation methodologies to gain insight about model performances.
 - Leveraged capabilities of Selenium Chrome Driver to efficiently scrape and extract valuable data from various online sources for further analysis and processing.
+- Published paper at at <a href="https://ieeexplore.ieee.org/abstract/document/10095762">IEEE ICASSP 2023 conference</a>.
 
 ### **IBM – Application Developer Bengaluru** (Dec 2019 – May 2021)
 - Raised efficiency above 23% by identifying bottlenecks and removing redundancies in project requirements with suitable rules and fragments in CPQ tool with efficient algorithms.
@@ -32,14 +31,14 @@ Highly motivated Machine Learning Engineer with a proven track record in develop
 - Led 5 minor releases, which improved quality of the product by avoiding long time wait for the changes.
 
 ## Projects
-- Master Thesis: Improving Multi-Modal Food Detection System with Transfer Learning
-- Amaze pay: A secure web application that allows users to carry out all transactions securely defending CSRF, SQL injection attack in flask. Link
+- Master Thesis: <a href="https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=2240&context=etd">Improving Multi-Modal Food Detection System with Transfer Learning</a>
+- Amaze pay: A secure web application that allows users to carry out all transactions securely defending CSRF, SQL injection attack in flask (<a href="https://github.com/sgowdaks/secure-software-development/tree/main/flask_web_security/web-app">Link</a>)
 
 ## Education
-**Loyola Marymount University** (August 2021 – May 2023)
+**Loyola Marymount University** (August 2021 – May 2023) </br>
 Master of Science in Computer and Information Technology, GPA: 3.67
 
-**Amrita School of Engineering** (June 2015 – May 2019)
+**Amrita School of Engineering** (June 2015 – May 2019) </br>
 Bachelor of Technology in Electrical and Electronics Engineering, GPA: 3.43 
 
 ## Skills
