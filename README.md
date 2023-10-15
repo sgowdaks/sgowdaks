@@ -1,9 +1,5 @@
 <!-- ### Hi there 👋 -->
 <img src="./gifs/hi.gif" width = "200"></img>
-<br/>
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgowdaks&show_icons=true)
-</br>
-![](https://komarev.com/ghpvc/?username=sgowdaks)
 <!-- <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3> -->
 <p>🌱 I’m currently learning Mojo🔥</p>
 <p>😄 Pronouns: she/her 💃🏻</p>
@@ -110,6 +106,10 @@
 
 <!--
 **shivaniks/shivaniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgowdaks&show_icons=true) 
+</br>
+![](https://komarev.com/ghpvc/?username=sgowdaks)
 
 Here are some ideas to get you started:
 
