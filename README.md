@@ -93,7 +93,7 @@
  <tr>
   </table>
   <p>Need my resume?</p>
-  <a href="./ShivaniG_Resume2023.pdf" download="ShivaniG_Resume2023.pdf"><button type="button" class="button">
+  <a href="./ShivaniG_Resume2023octo2.pdf" download="ShivaniG_Resume2023octo2.pdf"><button type="button" class="button">
               <strong>Click Me!</strong></button></strong></a>
 <!--   <a href="./ShivaniG_Resume_.pdf" download>click here!</a> -->
  
