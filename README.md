@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <img src="./gifs/hi.gif" width = "200"></img>
 <!-- <h3>Tech enthusiast, eager to learn new technologies and a team player with ability to deliver high quality work on time.</h3> -->
-<p>🌱 I’m currently focusing on my project <a href="https://github.com/sgowdaks/nichirin">nichirin</a></p>
+<p>🌱 I’m currently focusing on my project <a href="https://github.com/sgowdaks/llm-inference">llm-inference</a></p>
 <p>😄 Pronouns: she/her 💃🏻</p>
 <p>📫 How to reach me: shivanigowdaks@gmail.com</p>
 <p>⚡ Fun fact: I could spend hours discussing anime (hahaha) </P>
